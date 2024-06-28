@@ -1,4 +1,5 @@
-const perguntas = [
+const caixaprincipal = document.querySelector("caixa-principal");
+const perguntas = document.querySelector("caixa-perguntas");
     {
         enunciado: "Pergunta 1",
         alternativas: [
