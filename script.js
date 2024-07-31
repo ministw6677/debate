@@ -6,11 +6,11 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "para promover a sustentabilidade ambiental qual das seguintes a",
+        enunciado: "para promover a , sustentabilidade ambiental qual das seguintes açoẽs é mais eficaz?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "gerencia residuos de froma eficiente para reduzir a poluição e conservar recursos",
+                afirmacao: "o gerenciamento de forma eficiente de residuos minimizada o desperdicio reduza a poluição e preservar recursos"
             },
             {
                 texto: "Isso é maravilhoso!",
