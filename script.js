@@ -13,63 +13,52 @@ const perguntas = [
                 afirmacao: "o gerenciamento de forma eficiente de residuos minimizada o desperdicio reduza a poluição e preservar recursos"
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "investir em energia eolica para a agua eletricidade e reduzir a dependencia de combustives fosseis",
+                afirmacao: "a energia eolica e uma fonte renovavel e linpa que reduz a emissão de gases "
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado:"De que forma a adoção de energia eolica pode empactar a gestão de residuos e a conservação de agua em uma comunidade ",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "a comunidade adota energia eolica como principal fonte de energia ",
+                afirmacao: "reduz a produção de residuos toxicos ao diminuir a dependencia de combustives fosseis"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "a comunidade continua a ultilizar fontes tradicionais de energia, como carvão e gas natural",
+                afirmacao: "comsome grandes quantidades de agua exarcesbando a escasez hidrica"
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "como a implementação de energia eolica pode impactar o gerenciamento de residuos e a consrvação de agua  ",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "a energia eolica ao substituir fontes de energia baseadas em combustiveis fosseis reduz a producao de residuos toxicos ea producao de agua ",
+                afirmacao: "a energia eolica melhora o gerenciamento de residuos e conserva a agua "
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "a producao e a manutenção de turbinas eolicas podem gerar residuos industriais espesificos e em algumas faes demandae uso intensivo",
+                afirmacao: "e crucial adotar praticas de reciclagem e gestao de residuos e minimizar o uso de agua para maximizar a sustentabilidade da energia eolica  "
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "de que maneira a conservação de agua pode ser afetada pela expanção de pesquisa de energia eolica ",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "a energia eolica requer pouca agua para operacao o contrario de outras energias ",
+                afirmacao: "a expansao de parques eolicoscomtribui para a conservacao de recursos hidricos para outras essemcias na cominidade "
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "a comprucao dos parques eolicos pode alterar o uso do solo impactando os recursos hidricos ",
+                afirmacao: "apesar da operação dos parques eolicos comservas agua e crucial para impactos durante a combustao para protyeger os recursos hidricos "
             }
         ]
     },
-    {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
-        alternativas: [
-            {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
-            },
-            {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
-            }
-        ]
-    },
+    
+        
 ];
 
 
